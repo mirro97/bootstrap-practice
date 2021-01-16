@@ -1,0 +1,11 @@
+.container {
+  margin-top: 30px;
+}
+
+.panel-body {
+  display: flex;
+  flex-direction: column;
+}
+.panel-body a {
+  margin: 5px 0;
+}
